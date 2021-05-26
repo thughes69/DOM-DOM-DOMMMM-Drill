@@ -1,0 +1,16 @@
+.button {
+    display: block;
+}
+
+#square-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.black-square {
+    background-color: black;
+    margin: 1em;
+    /* display: inline-block; */
+    padding: 5em;
+    color:white
+}
